@@ -2670,6 +2670,13 @@ export const extraRpcs = {
       },
     ],
   },
+    //Rinkeby testnet deprecated
+  5556: {
+    rpcs: [
+      "http://3.128.163.227:8545",
+    ],
+  },
+  
   2332: {
     rpcs: [
       {
