@@ -2685,7 +2685,16 @@ export const extraRpcs = {
     ],
   },
 };
-
+  5555: {
+    rpcs: [
+      {
+        url: "http://3.128.163.227:8545/",
+        tracking: "yes",
+        trackingDetails: privacyStatement.soma,
+      },
+    ],
+  },
+};
 const allExtraRpcs = mergeDeep(llamaNodesRpcs, extraRpcs);
 
 export default allExtraRpcs;
