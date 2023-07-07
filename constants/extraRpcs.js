@@ -1504,6 +1504,9 @@ export const extraRpcs = {
   5551: {
     rpcs: ["https://l2.nahmii.io/"],
   },
+   5556: {
+    rpcs: ["https://rpc-kura.cross.technology"],
+  },
   88: {
     rpcs: ["https://rpc.tomochain.com"],
   },
